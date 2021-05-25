@@ -1,0 +1,7 @@
+// the 1st variant 
+
+if(!(age >= 14 && age <= 90 )) 
+
+// the 2nd variant 
+
+if(age >= 14 || age <= 90)
